@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-vab",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "highlight.js syntax definition for VBA (Visual Basic for Applications",
   "main": "src/vba.js",
   "scripts": {
