@@ -29,7 +29,7 @@ export default function(hljs) {
       built_in:
         'boolean byte cbool cbyte ccur cdate cdbl cint clng clnglng clngptr csng cstr currency cvar ' + /* b-c */
         'date defbool defbbyte defdate defdec defdouble defint deflng deflnglng deflngptr defobj defsng double ' + /* d */
-        'iif integer input lbound len long longlong lset object print' + /* e-p */
+        'iif integer input lbound len long longlong lset object print ' + /* e-p */
         'single seek string time type typeof ubound variant', /* s-u */
       literal:
         'true false nothing null'
