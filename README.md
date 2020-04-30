@@ -21,7 +21,7 @@ Simply load the module after loading Highlight.js.  You'll use the minified vers
 
 ```html
 <script type="text/javascript"
-  src="https://unpkg.com/highlightjs-vba@0.1.0/dist/vba.min.js"></script>
+  src="https://unpkg.com/highlightjs-vba/dist/vba.min.js"></script>
 ```
 
 - More info: <https://unpkg.com>
