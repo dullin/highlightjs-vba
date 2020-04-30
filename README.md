@@ -48,6 +48,13 @@ for details.
 
 Hugo Leblanc <admin@hololink.org>
 
+### Generating the dist files 
+From [this issue](https://github.com/highlightjs/highlightjs-cypher/issues/9)
+
+```
+node  --stack-size=65500  ./tools/build.js -t cdn
+```
+
 ## Links
 
 - The official site for the Highlight.js library is <https://highlightjs.org/>.
